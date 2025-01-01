@@ -30,7 +30,6 @@ I'm a Backend Web Developer in Heidelberg,Germany and pursuing Master's in SRH H
 
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6C37?logo=microgen&logoColor=white)
 
-### GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PramukhPrakash17&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
+
 
 
