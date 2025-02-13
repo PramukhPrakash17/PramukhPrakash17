@@ -33,3 +33,9 @@ I'm a Backend Web Developer in Heidelberg, Germany, and pursuing my Master's at 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pramukh-prakash)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:pramukhp35@gmail.com)  
+
+### GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PramukhPrakash17&show_icons=true&theme=radical)  
+
+
