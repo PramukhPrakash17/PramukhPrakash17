@@ -10,7 +10,8 @@ I'm a Backend Web Developer in Heidelberg, Germany, and pursuing my Master's at 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) 
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6C37?logo=microgen&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+![WireMock](https://img.shields.io/badge/WireMock-API_Testing-FF6C37)
 
 ### Frameworks:
 
@@ -26,13 +27,13 @@ I'm a Backend Web Developer in Heidelberg, Germany, and pursuing my Master's at 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 
 ### Currently Learning:
-
-![Mockito](https://img.shields.io/badge/-Mockito-00BFA5?logo=mockito&logoColor=white)  
+Kafka and other advanced Microservice components. 
 
 ### Contact Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pramukh-prakash)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:pramukhp35@gmail.com)  
+
 
 ### GitHub Stats:
 
