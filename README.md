@@ -27,7 +27,7 @@ I'm a Backend Web Developer in Heidelberg, Germany, and pursuing my Master's at 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 
 ### Currently Learning:
-Kafka and other advanced Microservice components. 
+![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?logo=apachekafka&logoColor=white) 
 
 ### Contact Me:
 
