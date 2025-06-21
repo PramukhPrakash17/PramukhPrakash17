@@ -13,7 +13,7 @@ I'm a **Backend Web Developer** based in Heidelberg, Germany 🇩🇪, currently
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6C37?logo=microgen&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![WireMock](https://img.shields.io/badge/-WireMock-API_Testing-FF6C37)
+
 
 ---
 
