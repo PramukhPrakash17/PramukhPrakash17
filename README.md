@@ -1,5 +1,5 @@
 # Hi there 👋  
-I'm a **Backend Web Developer** based in Heidelberg, Germany 🇩🇪, currently pursuing my Master's at **SRH Hochschule Heidelberg**.
+I'm a **Backend Web Developer** based in Heidelberg, Germany, currently pursuing my Master's at **SRH Hochschule Heidelberg**.
 
 ---
 
