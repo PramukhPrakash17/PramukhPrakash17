@@ -62,6 +62,7 @@ I'm a **Backend Web Developer** based in Heidelberg, Germany, currently pursuing
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PramukhPrakash17&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PramukhPrakash17&show_icons=true&theme=radical&count_private=true&cache_bust=1)
+
 
 
